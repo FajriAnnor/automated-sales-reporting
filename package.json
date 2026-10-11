@@ -1,0 +1,19 @@
+{
+  "name": "automated-sales-reporting",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Reproducible sales and operational reporting automation with 100% synthetic data.",
+  "scripts": {
+    "generate": "node scripts/generate-demo.mjs",
+    "clean": "node scripts/run-pipeline.mjs",
+    "report:excel": "node scripts/export-excel.mjs",
+    "report:validate": "node scripts/validate-workbook.mjs",
+    "demo": "npm run generate && npm run clean && npm run report:excel && npm run report:validate",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  },
+  "engines": { "node": ">=20" }
+}

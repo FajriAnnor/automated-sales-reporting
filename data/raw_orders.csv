@@ -1,0 +1,256 @@
+order_id,order_date,branch,sales_channel,product_category,quantity,unit_price_idr,reported_total_idr,payment_status,fulfillment_status
+ORD-2026-0113,22-05-2026, bandung ,Reseller,HOME LIVING,2,89000,Rp 178.000,Paid,Delivered
+ORD-2026-0003,2026-03-17,Bali,online,Electronics,2,Rp 240.000,"480,000",Refunded,Processing
+ORD-2026-0049,14-01-2026, bandung ,Reseller,Electronics,4,"89,000",356000,Paid,Cancelled
+ORD-2026-0097,23-01-2026, bandung ,Reseller,Accessories,4,"175,000",700000,Paid,Delivered
+ORD-2026-0107,2026-05-09,Jakarta,RETAIL,Office Supplies,2,175000,Rp 350.000,Paid,Cancelled
+ORD-2026-0064,25/04/2026,BEKASI,online,Office Supplies,1,"89,000",89000,Pending,Processing
+ORD-2026-0006,2026/06/18,BEKASI,RETAIL,Accessories,1,Rp 240.000,"240,000",Refunded,Delivered
+ORD-2026-0022,2026/04/09,Jakarta,RETAIL,HOME LIVING,4,"175,000",700000,Paid,Delivered
+ORD-2026-0030,2026/06/23, bandung ,RETAIL,Electronics,2,Rp 325.000,"650,000",Paid,Cancelled
+ORD-2026-0180,21/06/2026, bandung ,RETAIL,HOME LIVING,2,Rp 680.000,"1,360,000",Paid,Processing
+ORD-2026-0168,02/06/2026,BEKASI,RETAIL,Electronics,1,Rp 325.000,"325,000",Refunded,Processing
+ORD-2026-0028,10/04/2026,Jakarta,Reseller,Office Supplies,1,"89,000",89000,Refunded,Processing
+ORD-2026-0183,2026-03-12,Jakarta,online,Electronics,5,Rp 125.000,"625,000",Refunded,Delivered
+ORD-2026-0115,2026-01-03, bandung ,RETAIL,Electronics,1,"125,000",125000,Paid,Delivered
+ORD-2026-0157,11-01-2026,BEKASI,RETAIL,Accessories,3,"89,000",267000,Refunded,Delivered
+ORD-2026-0160,07/04/2026, bandung ,online,HOME LIVING,2,"175,000",350000,Refunded,Processing
+ORD-2026-0090,2026/06/22,Bali,Reseller,Office Supplies,1,Rp 175.000,"175,000",Refunded,Delivered
+ORD-2026-0240,11/06/2026,Bali,online,Electronics,2,Rp 125.000,"250,000",Paid,Delivered
+ORD-2026-0161,09-05-2026,Bali,Reseller,Electronics,2,450000,Rp 900.000,Paid,Cancelled
+ORD-2026-0148,21/04/2026,Bali,Reseller,Electronics,4,"680,000",2720000,Paid,Delivered
+ORD-2026-0192,04/06/2026, bandung ,RETAIL,Accessories,3,Rp 125.000,"375,000",Paid,Delivered
+ORD-2026-0167,2026-05-11,BEKASI,online,HOME LIVING,1,450000,Rp 450.000,Pending,Delivered
+ORD-2026-0074,2026/02/15,Jakarta,Reseller,Accessories,3,450000,Rp 1.350.000,Paid,Cancelled
+ORD-2026-0016,31/02/2026,BEKASI,online,Accessories,4,"125,000",500000,Paid,Processing
+ORD-2026-0081,09-03-2026,Jakarta,Reseller,Electronics,5,Rp 89.000,"445,000",Paid,Cancelled
+ORD-2026-0058,2026/04/25,Bali,online,Office Supplies,5,"65,000",999999999,Pending,Processing
+ORD-2026-0069,23-03-2026, bandung ,online,Office Supplies,1,Rp 125.000,"125,000",Pending,Cancelled
+ORD-2026-0094,2026/04/27,Bali,online,Office Supplies,2,"175,000",350000,Paid,Processing
+ORD-2026-0103,2026-01-26,Bali,Reseller,Electronics,8,"325,000",2600000,Paid,Processing
+ORD-2026-0036,03/06/2026,Bali,online,Office Supplies,2,N/A,"900,000",Paid,Cancelled
+ORD-2026-0057,01-03-2026, bandung ,online,HOME LIVING,1,Rp 65.000,999999999,Paid,Delivered
+ORD-2026-0068,04/02/2026,Jakarta,online,HOME LIVING,3,89000,Rp 267.000,Refunded,Delivered
+ORD-2026-0139,2026-01-14, bandung ,RETAIL,Office Supplies,3,"450,000",1350000,Pending,Delivered
+ORD-2026-0137,22-05-2026,Jakarta,RETAIL,Electronics,1,240000,Rp 240.000,Paid,Processing
+ORD-2026-0174,2026/06/24, bandung ,online,Office Supplies,5,Rp 175.000,"875,000",Paid,Processing
+ORD-2026-0211,2026-01-09,Jakarta,Reseller,Electronics,5,"680,000",3400000,Paid,Delivered
+ORD-2026-0122,2026/02/19, bandung ,Reseller,Accessories,3,65000,Rp 195.000,Pending,Delivered
+ORD-2026-0105,10-03-2026,Jakarta,online,Electronics,4,Rp 65.000,"260,000",Pending,Delivered
+ORD-2026-0067,2026-01-13,BEKASI,RETAIL,Electronics,3,"240,000",720000,Refunded,Processing
+ORD-2026-0185,06-05-2026, bandung ,online,Accessories,2,175000,Rp 350.000,Pending,Cancelled
+ORD-2026-0196,18/04/2026,Bali,online,Accessories,4,"450,000",1800000,Paid,Cancelled
+ORD-2026-0202,2026/04/14,Jakarta,Reseller,Electronics,1,"175,000",175000,Pending,Delivered
+ORD-2026-0128,08/02/2026,Bali,online,Accessories,2,175000,Rp 350.000,Paid,Delivered
+ORD-2026-0224,15/02/2026, bandung ,Reseller,Office Supplies,5,89000,Rp 445.000,Refunded,Cancelled
+ORD-2026-0143,2026-05-24,Jakarta,Reseller,Electronics,5,125000,Rp 625.000,Paid,Delivered
+ORD-2026-0045,27-03-2026,Bali,Reseller,Electronics,2,Rp 450.000,"900,000",Refunded,Cancelled
+ORD-2026-0065,21-05-2026, bandung ,RETAIL,Accessories,2,450000,Rp 900.000,Pending,Delivered
+ORD-2026-0205,22-01-2026, bandung ,RETAIL,Accessories,2,"65,000",130000,Paid,Delivered
+ORD-2026-0032,11/02/2026,Jakarta,online,Electronics,2,325000,Rp 650.000,Paid,Delivered
+ORD-2026-0038,2026/02/11,Bali,online,Office Supplies,3,N/A,Rp 2.040.000,Refunded,Cancelled
+ORD-2026-0141,10-03-2026,Bali,online,HOME LIVING,2,Rp 240.000,"480,000",Refunded,Cancelled
+ORD-2026-0197,23-05-2026,Bali,RETAIL,Office Supplies,4,680000,Rp 2.720.000,Refunded,Delivered
+ORD-2026-0023,2026-05-22,BEKASI,RETAIL,HOME LIVING,5,680000,Rp 3.400.000,Paid,Delivered
+ORD-2026-0103,2026-01-26,Bali,Reseller,Electronics,5,"325,000",1625000,Paid,Processing
+ORD-2026-0119,2026-05-24,Jakarta,RETAIL,HOME LIVING,2,240000,Rp 480.000,Paid,Delivered
+ORD-2026-0144,22/06/2026,Jakarta,online,Office Supplies,3,Rp 450.000,"1,350,000",Pending,Processing
+ORD-2026-0095,2026-05-03,Bali,online,HOME LIVING,5,125000,Rp 625.000,Paid,Cancelled
+ORD-2026-0011,2026-05-10,Bali,online,Accessories,1,450000,Rp 450.000,Paid,Delivered
+ORD-2026-0062,2026/02/15,Bali,Reseller,HOME LIVING,1,125000,Rp 125.000,Pending,Delivered
+ORD-2026-0220,03/04/2026, bandung ,RETAIL,HOME LIVING,4,"125,000",500000,Paid,Cancelled
+ORD-2026-0102,2026/06/21,Bali,online,Electronics,3,Rp 65.000,"195,000",Refunded,Cancelled
+ORD-2026-0138,2026/06/25,Jakarta,online,HOME LIVING,4,Rp 175.000,"700,000",Paid,Cancelled
+ORD-2026-0033,02-03-2026,Bali,online,Accessories,3,Rp 450.000,"1,350,000",Paid,Cancelled
+ORD-2026-0182,2026/02/07,Bali,online,Office Supplies,3,125000,Rp 375.000,Paid,Cancelled
+ORD-2026-0195,2026-03-01, bandung ,Reseller,Electronics,3,Rp 65.000,"195,000",Paid,Delivered
+ORD-2026-0031,2026-01-06,Jakarta,Reseller,HOME LIVING,4,"240,000",960000,Paid,Processing
+ORD-2026-0077,19-05-2026,Jakarta,Reseller,HOME LIVING,1,175000,Rp 175.000,Paid,Delivered
+ORD-2026-0089,16-05-2026,Bali,online,Office Supplies,2,680000,Rp 1.360.000,Refunded,Delivered
+ORD-2026-0020,25/02/2026,Jakarta,online,Office Supplies,1,325000,Rp 325.000,Refunded,Delivered
+ORD-2026-0014,2026/02/10,BEKASI,online,Accessories,1,240000,Rp 240.000,Pending,Delivered
+ORD-2026-0146,2026/02/24,Bali,online,Electronics,1,450000,Rp 450.000,Paid,Delivered
+ORD-2026-0087,2026-03-25,BEKASI,online,Accessories,3,Rp 325.000,"975,000",Paid,Delivered
+ORD-2026-0013,09-01-2026,BEKASI,Reseller,Electronics,2,"125,000",250000,Refunded,Delivered
+ORD-2026-0080,27/02/2026, bandung ,online,HOME LIVING,3,175000,Rp 525.000,Refunded,Delivered
+ORD-2026-0108,04/06/2026,BEKASI,Reseller,Accessories,4,Rp 175.000,"700,000",Pending,Processing
+ORD-2026-0234,2026/06/26,Bali,Reseller,Office Supplies,3,Rp 175.000,"525,000",Refunded,Delivered
+ORD-2026-0227,2026-05-22,Bali,RETAIL,Office Supplies,5,680000,Rp 3.400.000,Paid,Delivered
+ORD-2026-0072,12/06/2026, bandung ,online,Accessories,4,Rp 65.000,"260,000",Refunded,Cancelled
+ORD-2026-0153,17-03-2026, bandung ,online,Electronics,1,Rp 240.000,"240,000",Paid,Processing
+ORD-2026-0152,05/02/2026,Jakarta,RETAIL,Office Supplies,1,175000,Rp 175.000,Paid,Delivered
+ORD-2026-0092,04/02/2026, bandung ,Reseller,Office Supplies,4,680000,Rp 2.720.000,Paid,Delivered
+ORD-2026-0233,05-05-2026,Bali,RETAIL,Electronics,1,680000,Rp 680.000,Refunded,Cancelled
+ORD-2026-0218,2026/02/19,BEKASI,RETAIL,HOME LIVING,4,125000,Rp 500.000,Paid,Cancelled
+ORD-2026-0088,04/04/2026,Jakarta,online,HOME LIVING,5,"450,000",2250000,Paid,Cancelled
+ORD-2026-0214,2026/04/15, bandung ,RETAIL,HOME LIVING,2,"89,000",178000,Paid,Delivered
+ORD-2026-0229,24-01-2026,BEKASI,online,Office Supplies,1,"450,000",450000,Pending,Processing
+ORD-2026-0117,10-03-2026,Jakarta,online,HOME LIVING,2,Rp 65.000,"130,000",Paid,Processing
+ORD-2026-0238,2026/04/10,Bali,online,Office Supplies,1,"325,000",325000,Refunded,Delivered
+ORD-2026-0177,25-03-2026, bandung ,RETAIL,Accessories,5,Rp 65.000,"325,000",Refunded,Cancelled
+ORD-2026-0156,24/06/2026,BEKASI,online,Office Supplies,2,Rp 175.000,"350,000",Pending,Delivered
+ORD-2026-0086,2026/02/01,Bali,Reseller,Office Supplies,3,125000,Rp 375.000,Refunded,Delivered
+ORD-2026-0055,2026-01-02,BEKASI,online,Accessories,1,"89,000",89000,Paid,Processing
+ORD-2026-0133,07-01-2026,Jakarta,RETAIL,Office Supplies,3,"175,000",525000,Paid,Delivered
+ORD-2026-0235,2026-01-17, bandung ,online,Office Supplies,3,"325,000",975000,Paid,Cancelled
+ORD-2026-0018,31/02/2026,Bali,online,Electronics,2,Rp 89.000,"178,000",Refunded,Cancelled
+ORD-2026-0079,2026-01-16,Jakarta,Reseller,Accessories,2,"240,000",480000,Paid,Delivered
+ORD-2026-0054,2026/06/17,BEKASI,online,Office Supplies,1,Rp 175.000,"175,000",Paid,Delivered
+ORD-2026-0175,2026-01-12,BEKASI,Reseller,HOME LIVING,5,"89,000",445000,Refunded,Delivered
+ORD-2026-0155,2026-05-05,BEKASI,online,Electronics,1,65000,Rp 65.000,Paid,Processing
+ORD-2026-0109,26-01-2026,BEKASI,Reseller,HOME LIVING,2,"125,000",250000,Paid,Delivered
+ORD-2026-0151,2026-01-14,BEKASI,Reseller,HOME LIVING,1,"325,000",325000,Paid,Delivered
+ORD-2026-0187,2026-01-24, bandung ,online,Electronics,4,"175,000",700000,Paid,Processing
+ORD-2026-0084,18/06/2026,Bali,online,Electronics,3,Rp 680.000,"2,040,000",Refunded,Processing
+ORD-2026-0176,25/02/2026, bandung ,Reseller,Electronics,5,89000,Rp 445.000,Paid,Processing
+ORD-2026-0015,2026-03-06,BEKASI,Reseller,Electronics,2,Rp 680.000,"1,360,000",Paid,Cancelled
+ORD-2026-0001,04-01-2026, bandung ,Reseller,Electronics,1,"125,000",125000,Paid,Cancelled
+ORD-2026-0123,2026-03-08,BEKASI,Reseller,Accessories,5,Rp 240.000,"1,200,000",Pending,Delivered
+ORD-2026-0010,2026/04/23,BEKASI,RETAIL,Office Supplies,1,"89,000",89000,Pending,Processing
+ORD-2026-0184,10/04/2026, bandung ,RETAIL,HOME LIVING,1,"89,000",89000,Paid,Cancelled
+ORD-2026-0026,2026/02/11,BEKASI,online,Accessories,5,450000,Rp 2.250.000,Pending,Cancelled
+ORD-2026-0076,24/04/2026,Bali,RETAIL,Electronics,1,"240,000",240000,Pending,Cancelled
+ORD-2026-0236,18/02/2026,Bali,Reseller,Office Supplies,2,680000,Rp 1.360.000,Pending,Delivered
+ORD-2026-0039,2026-03-05,Bali,Reseller,HOME LIVING,2,N/A,"900,000",Paid,Processing
+ORD-2026-0203,2026-05-03,Jakarta,RETAIL,Office Supplies,4,125000,Rp 500.000,Paid,Cancelled
+ORD-2026-0089,16-05-2026,Bali,online,Office Supplies,2,680000,Rp 1.360.000,Refunded,Delivered
+ORD-2026-0206,2026/02/27,Jakarta,Reseller,Accessories,1,175000,Rp 175.000,Pending,Cancelled
+ORD-2026-0021,16-03-2026, bandung ,Reseller,HOME LIVING,5,Rp 680.000,"3,400,000",Paid,Delivered
+ORD-2026-0216,11/06/2026,Bali,RETAIL,HOME LIVING,1,Rp 450.000,"450,000",Refunded,Delivered
+ORD-2026-0114,2026/06/26,Bali,RETAIL,Electronics,4,Rp 89.000,"356,000",Paid,Processing
+ORD-2026-0124,06/04/2026, bandung ,Reseller,Office Supplies,3,"65,000",195000,Paid,Processing
+ORD-2026-0063,2026-03-22, bandung ,Reseller,Accessories,2,Rp 680.000,"1,360,000",Paid,Processing
+ORD-2026-0098,2026/02/14,Jakarta,online,Electronics,4,65000,Rp 260.000,Paid,Cancelled
+ORD-2026-0091,2026-01-17,Jakarta,online,HOME LIVING,5,"450,000",2250000,Pending,Processing
+ORD-2026-0193,23-01-2026, bandung ,Reseller,HOME LIVING,2,"240,000",480000,Refunded,Cancelled
+ORD-2026-0093,13-03-2026,BEKASI,Reseller,Accessories,5,Rp 65.000,"325,000",Pending,Delivered
+ORD-2026-0170,2026/02/01,Bali,Reseller,Accessories,3,240000,Rp 720.000,Paid,Delivered
+ORD-2026-0145,13-01-2026,BEKASI,online,Electronics,1,"240,000",240000,Paid,Delivered
+ORD-2026-0208,07/04/2026,BEKASI,Reseller,Electronics,1,"680,000",680000,Paid,Cancelled
+ORD-2026-0213,17-03-2026, bandung ,Reseller,Office Supplies,5,Rp 450.000,"2,250,000",Paid,Delivered
+ORD-2026-0071,2026-05-18,BEKASI,online,Office Supplies,1,450000,Rp 450.000,Paid,Delivered
+ORD-2026-0166,2026/04/24,BEKASI,RETAIL,Office Supplies,4,"680,000",2720000,Paid,Delivered
+ORD-2026-0102,2026/06/21,Bali,online,Electronics,8,Rp 65.000,520000,Refunded,Cancelled
+ORD-2026-0169,24-01-2026, bandung ,RETAIL,Office Supplies,4,"175,000",700000,Pending,Delivered
+ORD-2026-0025,19-01-2026, bandung ,RETAIL,Office Supplies,4,"450,000",1800000,Refunded,Cancelled
+ORD-2026-0004,16/04/2026,Bali,online,Electronics,5,"325,000",1625000,Pending,Cancelled
+ORD-2026-0088,04/04/2026,Jakarta,online,HOME LIVING,5,"450,000",2250000,Paid,Cancelled
+ORD-2026-0078,2026/06/11,Jakarta,Reseller,Electronics,2,Rp 125.000,"250,000",Paid,Processing
+ORD-2026-0127,2026-01-19,Bali,online,Electronics,4,"450,000",1800000,Paid,Delivered
+ORD-2026-0019,31/02/2026, bandung ,Reseller,Office Supplies,5,"325,000",1625000,Paid,Cancelled
+ORD-2026-0047,2026-05-19, bandung ,online,Accessories,1,240000,Rp 240.000,Paid,Delivered
+ORD-2026-0130,2026/04/04, bandung ,RETAIL,HOME LIVING,2,"240,000",480000,Pending,Delivered
+ORD-2026-0179,2026-05-23,BEKASI,Reseller,Accessories,4,125000,Rp 500.000,Paid,Cancelled
+ORD-2026-0134,2026/02/16, bandung ,Reseller,Electronics,3,89000,Rp 267.000,Paid,Delivered
+ORD-2026-0059,2026-05-19, bandung ,Reseller,Office Supplies,5,325000,999999999,Paid,Processing
+ORD-2026-0043,2026-01-08,Bali,RETAIL,Electronics,3,"240,000",720000,Pending,Delivered
+ORD-2026-0178,2026/04/06,Bali,online,Accessories,1,"325,000",325000,Paid,Delivered
+ORD-2026-0101,15-05-2026,Jakarta,Reseller,HOME LIVING,3,240000,Rp 720.000,Paid,Processing
+ORD-2026-0237,27-03-2026, bandung ,Reseller,HOME LIVING,5,Rp 240.000,"1,200,000",Pending,Delivered
+ORD-2026-0111,2026-03-13,BEKASI,online,HOME LIVING,1,Rp 65.000,"65,000",Paid,Delivered
+ORD-2026-0162,2026/06/26,BEKASI,RETAIL,Office Supplies,5,Rp 325.000,"1,625,000",Paid,Cancelled
+ORD-2026-0085,07-01-2026,Bali,Reseller,HOME LIVING,3,"175,000",525000,Pending,Cancelled
+ORD-2026-0073,27-01-2026,BEKASI,online,HOME LIVING,5,"65,000",325000,Paid,Delivered
+ORD-2026-0085,07-01-2026,Bali,Reseller,HOME LIVING,3,"175,000",525000,Pending,Cancelled
+ORD-2026-0173,12-05-2026, bandung ,online,Accessories,1,89000,Rp 89.000,Refunded,Processing
+ORD-2026-0096,19/06/2026,BEKASI,RETAIL,Electronics,5,Rp 175.000,"875,000",Refunded,Delivered
+ORD-2026-0164,25/02/2026,BEKASI,online,Accessories,3,125000,Rp 375.000,Refunded,Delivered
+ORD-2026-0189,02-03-2026,Bali,RETAIL,Accessories,3,Rp 325.000,"975,000",Paid,Delivered
+ORD-2026-0120,08/06/2026,Jakarta,RETAIL,HOME LIVING,5,Rp 125.000,"625,000",Paid,Delivered
+ORD-2026-0090,2026/06/22,Bali,Reseller,Office Supplies,1,Rp 175.000,"175,000",Refunded,Delivered
+ORD-2026-0215,2026-05-04,Jakarta,RETAIL,HOME LIVING,1,240000,Rp 240.000,Pending,Delivered
+ORD-2026-0221,07-05-2026,BEKASI,Reseller,HOME LIVING,3,680000,Rp 2.040.000,Paid,Delivered
+ORD-2026-0207,2026-03-17,Bali,Reseller,HOME LIVING,4,Rp 450.000,"1,800,000",Paid,Processing
+ORD-2026-0219,2026-03-27,Jakarta,Reseller,Electronics,2,Rp 450.000,"900,000",Paid,Cancelled
+ORD-2026-0106,2026/04/17,Jakarta,online,Electronics,1,"125,000",125000,Paid,Delivered
+ORD-2026-0150,2026/06/07,Bali,online,Electronics,5,Rp 450.000,"2,250,000",Pending,Cancelled
+ORD-2026-0132,27/06/2026,Bali,online,Electronics,2,Rp 175.000,"350,000",Paid,Delivered
+ORD-2026-0239,2026-05-02,BEKASI,RETAIL,HOME LIVING,2,89000,Rp 178.000,Paid,Cancelled
+ORD-2026-0131,2026-05-12,BEKASI,online,Electronics,2,89000,Rp 178.000,Refunded,Delivered
+ORD-2026-0035,2026-05-19, bandung ,Reseller,Office Supplies,2,175000,Rp 350.000,Paid,Delivered
+ORD-2026-0024,22/06/2026,Jakarta,Reseller,Office Supplies,3,Rp 175.000,"525,000",Refunded,Processing
+ORD-2026-0052,11/04/2026,Bali,Reseller,Electronics,1,"680,000",680000,Pending,Delivered
+ORD-2026-0086,2026/02/01,Bali,Reseller,Office Supplies,3,125000,Rp 375.000,Refunded,Delivered
+ORD-2026-0083,2026-05-19,Jakarta,online,HOME LIVING,1,680000,Rp 680.000,Pending,Delivered
+ORD-2026-0005,06-05-2026,BEKASI,online,HOME LIVING,3,65000,Rp 195.000,Pending,Cancelled
+ORD-2026-0081,09-03-2026,Jakarta,Reseller,Electronics,5,Rp 89.000,"445,000",Paid,Cancelled
+ORD-2026-0142,2026/04/12,BEKASI,online,Office Supplies,4,"175,000",700000,Pending,Delivered
+ORD-2026-0009,06-03-2026,BEKASI,Reseller,Electronics,2,Rp 65.000,"130,000",Paid,Processing
+ORD-2026-0228,18/06/2026, bandung ,Reseller,Electronics,5,Rp 680.000,"3,400,000",Paid,Processing
+ORD-2026-0149,20-05-2026,Bali,RETAIL,HOME LIVING,4,450000,Rp 1.800.000,Paid,Delivered
+ORD-2026-0051,2026-03-23,BEKASI,Reseller,HOME LIVING,1,Rp 125.000,"125,000",Pending,Cancelled
+ORD-2026-0198,2026/06/06,Bali,Reseller,HOME LIVING,2,Rp 240.000,"480,000",Paid,Cancelled
+ORD-2026-0222,2026/06/03,Bali,RETAIL,Office Supplies,4,Rp 65.000,"260,000",Refunded,Cancelled
+ORD-2026-0007,2026-01-26,BEKASI,RETAIL,Electronics,5,"240,000",1200000,Paid,Processing
+ORD-2026-0223,2026-01-18,BEKASI,RETAIL,Electronics,3,"175,000",525000,Paid,Processing
+ORD-2026-0084,18/06/2026,Bali,online,Electronics,3,Rp 680.000,"2,040,000",Refunded,Processing
+ORD-2026-0040,02/04/2026,BEKASI,Reseller,Electronics,3,"65,000",195000,Paid,Processing
+ORD-2026-0188,18/02/2026,Jakarta,online,HOME LIVING,4,89000,Rp 356.000,Paid,Cancelled
+ORD-2026-0042,2026/06/04,Jakarta,Reseller,Electronics,4,Rp 89.000,"356,000",Paid,Processing
+ORD-2026-0056,05/02/2026,Jakarta,online,Electronics,2,450000,999999999,Pending,Cancelled
+ORD-2026-0066,2026/06/13,Bali,Reseller,Electronics,5,Rp 65.000,"325,000",Pending,Cancelled
+ORD-2026-0075,2026-03-03,Jakarta,Reseller,Electronics,4,Rp 175.000,"700,000",Refunded,Processing
+ORD-2026-0159,2026-03-03,BEKASI,online,Electronics,2,Rp 175.000,"350,000",Paid,Cancelled
+ORD-2026-0154,2026/04/03,Jakarta,Reseller,Electronics,3,"65,000",195000,Pending,Cancelled
+ORD-2026-0008,02/02/2026, bandung ,RETAIL,Accessories,4,680000,Rp 2.720.000,Refunded,Delivered
+ORD-2026-0017,31/02/2026,BEKASI,online,Office Supplies,3,125000,Rp 375.000,Paid,Delivered
+ORD-2026-0029,26-05-2026, bandung ,Reseller,Office Supplies,2,680000,Rp 1.360.000,Paid,Delivered
+ORD-2026-0037,17-01-2026,Jakarta,Reseller,Office Supplies,2,N/A,350000,Paid,Delivered
+ORD-2026-0231,2026-03-27,Jakarta,RETAIL,HOME LIVING,2,Rp 450.000,"900,000",Paid,Delivered
+ORD-2026-0171,2026-03-08,Bali,Reseller,Office Supplies,3,Rp 125.000,"375,000",Paid,Delivered
+ORD-2026-0053,23-05-2026,BEKASI,RETAIL,Electronics,4,325000,Rp 1.300.000,Paid,Cancelled
+ORD-2026-0225,27-03-2026,Bali,RETAIL,Office Supplies,2,Rp 89.000,"178,000",Paid,Delivered
+ORD-2026-0191,2026-05-25,BEKASI,Reseller,Accessories,4,125000,Rp 500.000,Refunded,Cancelled
+ORD-2026-0165,13-03-2026,BEKASI,RETAIL,Accessories,5,Rp 450.000,"2,250,000",Paid,Processing
+ORD-2026-0212,23/02/2026, bandung ,Reseller,Office Supplies,1,89000,Rp 89.000,Paid,Delivered
+ORD-2026-0048,04/06/2026,Jakarta,Reseller,Accessories,3,Rp 125.000,"375,000",Paid,Processing
+ORD-2026-0002,2026/02/26,Bali,online,Office Supplies,4,175000,Rp 700.000,Pending,Processing
+ORD-2026-0046,2026/04/18,Bali,RETAIL,Accessories,3,"65,000",195000,Refunded,Delivered
+ORD-2026-0125,20-05-2026,Jakarta,online,Electronics,1,325000,Rp 325.000,Pending,Processing
+ORD-2026-0091,2026-01-17,Jakarta,online,HOME LIVING,5,"450,000",2250000,Pending,Processing
+ORD-2026-0158,2026/02/07,Jakarta,Reseller,Accessories,2,325000,Rp 650.000,Pending,Delivered
+ORD-2026-0100,07/04/2026,Jakarta,RETAIL,Accessories,2,"65,000",130000,Refunded,Processing
+ORD-2026-0200,10/02/2026,Bali,Reseller,Accessories,1,89000,Rp 89.000,Paid,Processing
+ORD-2026-0104,18/02/2026,Jakarta,Reseller,HOME LIVING,8,89000,712000,Paid,Delivered
+ORD-2026-0126,2026/06/19, bandung ,Reseller,HOME LIVING,5,Rp 450.000,"2,250,000",Pending,Delivered
+ORD-2026-0163,2026-01-21,BEKASI,RETAIL,HOME LIVING,4,"450,000",1800000,Paid,Delivered
+ORD-2026-0230,2026/02/04,BEKASI,online,HOME LIVING,3,680000,Rp 2.040.000,Paid,Delivered
+ORD-2026-0104,18/02/2026,Jakarta,Reseller,HOME LIVING,2,89000,Rp 178.000,Paid,Delivered
+ORD-2026-0190,2026/04/05,Bali,online,Accessories,4,"65,000",260000,Paid,Delivered
+ORD-2026-0070,2026/04/25,Jakarta,Reseller,HOME LIVING,2,"325,000",650000,Refunded,Cancelled
+ORD-2026-0135,2026-03-19,Bali,RETAIL,Accessories,4,Rp 125.000,"500,000",Paid,Delivered
+ORD-2026-0034,2026/04/13,BEKASI,RETAIL,Office Supplies,2,"240,000",480000,Refunded,Delivered
+ORD-2026-0087,2026-03-25,BEKASI,online,Accessories,3,Rp 325.000,"975,000",Paid,Delivered
+ORD-2026-0050,2026/02/07,Jakarta,RETAIL,HOME LIVING,4,680000,Rp 2.720.000,Paid,Processing
+ORD-2026-0044,08/02/2026,Bali,RETAIL,HOME LIVING,3,125000,Rp 375.000,Pending,Delivered
+ORD-2026-0112,09/04/2026, bandung ,Reseller,Electronics,3,"680,000",2040000,Paid,Processing
+ORD-2026-0199,2026-01-18,Jakarta,online,Office Supplies,1,"125,000",125000,Paid,Cancelled
+ORD-2026-0186,2026/06/16, bandung ,RETAIL,Accessories,3,Rp 175.000,"525,000",Paid,Cancelled
+ORD-2026-0172,03/04/2026, bandung ,Reseller,Electronics,5,"175,000",875000,Paid,Processing
+ORD-2026-0116,07/02/2026, bandung ,RETAIL,HOME LIVING,1,680000,Rp 680.000,Paid,Processing
+ORD-2026-0204,24/06/2026,Bali,RETAIL,Electronics,5,Rp 450.000,"2,250,000",Refunded,Delivered
+ORD-2026-0110,2026/02/04,BEKASI,Reseller,Office Supplies,5,125000,Rp 625.000,Refunded,Delivered
+ORD-2026-0129,23-03-2026,Bali,RETAIL,Electronics,5,Rp 450.000,"2,250,000",Pending,Delivered
+ORD-2026-0209,19-05-2026, bandung ,RETAIL,HOME LIVING,5,450000,Rp 2.250.000,Refunded,Delivered
+ORD-2026-0082,2026/04/26,Jakarta,RETAIL,HOME LIVING,4,"240,000",960000,Refunded,Processing
+ORD-2026-0061,02-01-2026,Jakarta,Reseller,Office Supplies,4,"89,000",356000,Paid,Cancelled
+ORD-2026-0232,22/04/2026,Bali,RETAIL,Accessories,3,"65,000",195000,Paid,Processing
+ORD-2026-0181,27-01-2026, bandung ,Reseller,Accessories,4,"325,000",1300000,Pending,Delivered
+ORD-2026-0082,2026/04/26,Jakarta,RETAIL,HOME LIVING,4,"240,000",960000,Refunded,Processing
+ORD-2026-0136,10/04/2026,BEKASI,RETAIL,Office Supplies,4,"125,000",500000,Paid,Delivered
+ORD-2026-0201,04-03-2026,Jakarta,RETAIL,Office Supplies,3,Rp 680.000,"2,040,000",Paid,Delivered
+ORD-2026-0194,2026/02/13,BEKASI,online,Office Supplies,4,175000,Rp 700.000,Paid,Delivered
+ORD-2026-0099,2026-03-15,Jakarta,Reseller,Electronics,1,Rp 89.000,"89,000",Paid,Delivered
+ORD-2026-0226,2026/04/08,BEKASI,Reseller,Electronics,1,"680,000",680000,Refunded,Cancelled
+ORD-2026-0060,01/06/2026,Jakarta,online,Accessories,4,Rp 65.000,"260,000",Refunded,Processing
+ORD-2026-0217,08-01-2026,Jakarta,Reseller,Electronics,4,"125,000",500000,Paid,Delivered
+ORD-2026-0083,2026-05-19,Jakarta,online,HOME LIVING,1,680000,Rp 680.000,Pending,Delivered
+ORD-2026-0118,2026/04/01,Bali,Reseller,Accessories,5,"175,000",875000,Paid,Cancelled
+ORD-2026-0147,2026-03-18,Bali,online,Electronics,3,Rp 450.000,"1,350,000",Paid,Cancelled
+ORD-2026-0041,04-05-2026, bandung ,RETAIL,Office Supplies,3,175000,Rp 525.000,Pending,Cancelled
+ORD-2026-0140,19/02/2026,Bali,online,Office Supplies,5,65000,Rp 325.000,Paid,Cancelled
+ORD-2026-0210,2026/06/15,Jakarta,Reseller,Office Supplies,1,Rp 325.000,"325,000",Paid,Delivered
+ORD-2026-0027,2026-03-24,Bali,online,HOME LIVING,3,Rp 89.000,"267,000",Pending,Delivered
+ORD-2026-0012,24/06/2026,Jakarta,online,Office Supplies,4,Rp 325.000,"1,300,000",Paid,Delivered
+ORD-2026-0121,25-01-2026,Jakarta,Reseller,Office Supplies,3,"450,000",1350000,Paid,Processing
+ORD-2026-0092,04/02/2026, bandung ,Reseller,Office Supplies,4,680000,Rp 2.720.000,Paid,Delivered

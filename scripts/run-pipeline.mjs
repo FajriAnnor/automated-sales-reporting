@@ -1,0 +1,16 @@
+import path from 'node:path';import fs from 'node:fs';
+import {fileURLToPath} from 'node:url';
+import {readCSV,writeCSV} from '../src/csv.mjs';
+import {cleanRows} from '../src/cleaner.mjs';
+import {buildReport} from '../src/analytics.mjs';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+const output=path.join(root,'outputs');fs.mkdirSync(output,{recursive:true});
+const raw=readCSV(path.join(root,'data','raw_orders.csv'));
+const {cleaned,rejected}=cleanRows(raw);
+const report=buildReport(raw,cleaned,rejected);
+writeCSV(path.join(output,'cleaned_orders.csv'),cleaned,['order_id','order_date','branch','sales_channel','product_category','quantity','unit_price_idr','total_idr','payment_status','fulfillment_status','recognized_sales_idr']);
+writeCSV(path.join(output,'quality_issues.csv'),rejected,[...Object.keys(raw[0]),'source_row','issue_reason']);
+writeCSV(path.join(output,'monthly_summary.csv'),report.monthly,['name','orders','recognized_sales_idr','gross_order_value_idr']);
+writeCSV(path.join(output,'branch_summary.csv'),report.branches,['name','orders','recognized_sales_idr','gross_order_value_idr']);
+fs.writeFileSync(path.join(output,'report_summary.json'),JSON.stringify(report,null,2)+'\n');
+console.log(JSON.stringify({metrics:report.metrics,issues:report.issues_by_reason},null,2));
